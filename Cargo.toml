@@ -1,6 +1,6 @@
 [package]
 name = "minigrep_pack"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Ajayi Ayotunde Joel"]
 edition = "2024"
 description = "A small clip clone of minigrep"
