@@ -1,0 +1,15 @@
+[package]
+name = "minigrep_pack"
+version = "0.1.0"
+authors = ["Ajayi Ayotunde Joel"]
+edition = "2024"
+description = "A small clip clone of minigrep"
+license = "MIT"
+
+[dependencies]
+
+[profile.dev]
+opt-level = 0
+
+[profile.release]
+opt-level = 3
